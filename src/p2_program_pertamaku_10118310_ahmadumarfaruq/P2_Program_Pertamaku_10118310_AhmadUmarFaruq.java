@@ -15,8 +15,8 @@ public class P2_Program_Pertamaku_10118310_AhmadUmarFaruq {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-            NewJFrame ut = new NewJFrame();
-            ut.setVisible(true);
+            NewJFrame frm = new NewJFrame();
+            frm.setVisible(true);
     }
     
 }
